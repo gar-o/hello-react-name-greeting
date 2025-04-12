@@ -21,3 +21,7 @@ npm run dev
 
 4.ブラウザで以下のURLにアクセスするとアプリが動作します
 http://localhost:5173
+
+## 実行方法（オンライン）
+1.このURLにアクセスしてください
+https://hello-react-name-greeting.vercel.app
