@@ -9,3 +9,15 @@
 - HTML/CSS
 
 ## 実行方法（ローカル）
+1.このリポジトリをクローンまたは ZIP でダウンロードします
+git clone https://github.com/gar-o/hello-react-name-greeting
+cd hello-react-name-greeting
+
+2.依存パッケージをインストールします
+npm install
+
+3.開発サーバーを起動します
+npm run dev
+
+4.ブラウザで以下のURLにアクセスするとアプリが動作します
+http://localhost:5173
